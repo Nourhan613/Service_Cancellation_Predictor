@@ -4,6 +4,6 @@ This project detects which customers are likely to leave a service or cancel a s
 1. Preprocessing, Data Cleaning
 2. Algorithms
   - Logistic Regression
-  -SVM
-  -Decision Tree
-3.GUI
+  - SVM
+  - Decision Tree
+3. GUI
